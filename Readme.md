@@ -5,19 +5,23 @@ This is simple Python Script to convert pdf to csv file.
 ### How'to or Procedure
 
 - Create Virtual Environment as it keeps thing tidy and clean.
-`python3 -m venv pdftocsv`
+```sh
+python3 -m venv pdftocsv
+```
 
 - Install Required Pakages
-`pip3 -r requirements.txt
+```sh
+pip3 -r requirements.txt
 
 # or 
 
 pip install pdfplumber pandas
-`
+```
 
 - Run the Script 
-`python3 pdf_to_csv.py`
-
+```
+python3 pdf_to_csv.py
+```
 
 ### Note
 
