@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+.env/
+ENV/
+env/
+lib/
+include/
+lib64
+bin/
+pyvenv.cfg
