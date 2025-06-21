@@ -25,7 +25,7 @@ python3 pdf_to_csv.py
 
 ### Note
 
-** This Script does not work for the image based pdfs. For them you need to first go through Optical Character Recognition applied to PDF documents, even after this the extration of data might be wrongly intended after extraction so one might need to manually fix it. **
+__ This Script does not work for the image based pdfs. For them you need to first go through Optical Character Recognition applied to PDF documents, even after this the extration of data might be wrongly intended after extraction so one might need to manually fix it. __
 
 
 ### Other 
